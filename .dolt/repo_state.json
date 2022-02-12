@@ -1,0 +1,31 @@
+{
+  "head": "refs/heads/master_new",
+  "remotes": {
+    "origin": {
+      "name": "origin",
+      "url": "https://github.com/psarangi550/python_request_in_advance.git",
+      "fetch_specs": [
+        "refs/heads/*:refs/remotes/origin/*"
+      ],
+      "params": {}
+    },
+    "origin_new": {
+      "name": "origin_new",
+      "url": "https://doltremoteapi.dolthub.com/psarangi550/python_request_in_advance",
+      "fetch_specs": [
+        "refs/heads/*:refs/remotes/origin_new/*"
+      ],
+      "params": {}
+    },
+    "origin_new_1": {
+      "name": "origin_new_1",
+      "url": "https://github.com/psarangi550/python_request_in_advance.git",
+      "fetch_specs": [
+        "refs/heads/*:refs/remotes/origin_new_1/*"
+      ],
+      "params": {}
+    }
+  },
+  "backups": {},
+  "branches": {}
+}
